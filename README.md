@@ -1,4 +1,4 @@
-# reply
+# Reply Templates
 Templates for the Reply Code Challenge, in many different languages. Use them to avoid rewriting boilerplate code every time.
 
 ## How to use
