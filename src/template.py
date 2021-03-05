@@ -3,6 +3,7 @@ import sys
 sys.stdin = open("input.txt", "r")
 sys.stdout = open("output.txt", "w")
 
+
 def solve():
     N = int(input())
 
@@ -13,5 +14,5 @@ def solve():
 
 T = int(input())
 for t in range(1, T + 1):
-    print("Case #{}: ".format(t), end="")
+    print(f"Case #{t}: ", end="")
     solve()
